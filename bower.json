@@ -1,0 +1,24 @@
+{
+  "name": "moduleB",
+  "description": "module B for modular app",
+  "main": "app.js",
+  "authors": [
+    "Abhayj"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "B"
+  ],
+  "homepage": "https://github.com/Abhay-Joshi-Git/ng1-module-B",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.2",
+    "shared": "git@github.com:Abhay-Joshi-Git/ng1-module-shared.git#master"
+  }
+}
