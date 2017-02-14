@@ -25,7 +25,7 @@
   'use strict';
 
   $templateCache.put('greetings/greetings.html',
-    "<div>{{cm}}<br><img src=\"images/greetings.jpg\"><br><br><congradulatory-banner message=\"message\"></congradulatory-banner><br></div>"
+    "<div>{{cm}}<br><img src=\"images/greetings/greetings.jpg\"><br><br><congradulatory-banner message=\"message\"></congradulatory-banner><br></div>"
   );
 
 }]);
